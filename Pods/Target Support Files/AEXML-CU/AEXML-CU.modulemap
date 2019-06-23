@@ -1,0 +1,6 @@
+framework module AEXML_CU {
+  umbrella header "AEXML-CU-umbrella.h"
+
+  export *
+  module * { export * }
+}

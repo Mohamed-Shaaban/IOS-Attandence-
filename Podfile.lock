@@ -1,0 +1,60 @@
+PODS:
+  - AEXML-CU (4.2.2)
+  - Alamofire (4.7.2)
+  - AnyError (2.0.1)
+  - CoreStore (5.1.0)
+  - IQKeyboardManagerSwift (6.1.1)
+  - ObjcExceptionBridging (1.0.1):
+    - ObjcExceptionBridging/ObjcExceptionBridging (= 1.0.1)
+  - ObjcExceptionBridging/ObjcExceptionBridging (1.0.1)
+  - ReactiveSwift (3.1.0):
+    - Result (~> 3.2)
+  - Result (3.2.4)
+  - SwiftECP (4.1.4):
+    - AEXML-CU (~> 4.2.2)
+    - Alamofire (~> 4.5)
+    - AnyError (~> 2.0.1)
+    - ReactiveSwift (~> 3.0)
+    - XCGLogger (~> 6.0)
+  - SwiftyJSON (4.1.0)
+  - XCGLogger (6.0.2):
+    - XCGLogger/Core (= 6.0.2)
+  - XCGLogger/Core (6.0.2):
+    - ObjcExceptionBridging
+
+DEPENDENCIES:
+  - CoreStore (~> 5.0)
+  - IQKeyboardManagerSwift
+  - SwiftECP
+  - SwiftyJSON
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AEXML-CU
+    - Alamofire
+    - AnyError
+    - CoreStore
+    - IQKeyboardManagerSwift
+    - ObjcExceptionBridging
+    - ReactiveSwift
+    - Result
+    - SwiftECP
+    - SwiftyJSON
+    - XCGLogger
+
+SPEC CHECKSUMS:
+  AEXML-CU: 79e0a075708b4b3e90740a47d10029acb792d98d
+  Alamofire: e4fa87002c137ba2d8d634d2c51fabcda0d5c223
+  AnyError: e746b158ed04037cf13141de39895071f68c467a
+  CoreStore: 5fd51cbe7ea2d7b4dfc6327031ab6ff6f7c63175
+  IQKeyboardManagerSwift: 977affaeb4d6e971975c7790a6850f31d38f1207
+  ObjcExceptionBridging: c30e00eb3700467e695faeea30e26e18bd445001
+  ReactiveSwift: 5b26d2e988fe0eed2daf48c4054d1de74db50184
+  Result: d2d07204ce72856f1fd9130bbe42c35a7b0fea10
+  SwiftECP: f70f9b40cd90c244012d4c7c664c100d9c225ae9
+  SwiftyJSON: c29297daf073d2aa016295d5809cdd68045c39b3
+  XCGLogger: c9601cae9a8912de34a58666ba931ed3d624dd31
+
+PODFILE CHECKSUM: 3118fc0d8db3c72ffe78df45bfc8b26bb9deea9f
+
+COCOAPODS: 1.5.3

@@ -1,0 +1,6 @@
+framework module SwiftECP {
+  umbrella header "SwiftECP-umbrella.h"
+
+  export *
+  module * { export * }
+}

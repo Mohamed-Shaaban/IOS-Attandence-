@@ -1,0 +1,6 @@
+framework module Pods_AttendanceTests {
+  umbrella header "Pods-AttendanceTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
